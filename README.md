@@ -1,4 +1,4 @@
-# Automation Assignment- SENG 31212
+# Automation Assignment - SENG 31212
 
 * Full Name         : Kesavan Selvarajah
 * Name with Initial : S.Kesavan
